@@ -18,7 +18,6 @@ Key Features:
 
 
 
-
 **Note:** 🛑 If the Excel file is not viewable due to Protected View, follow these steps to resolve the issue:
 
 1. Click on the "File" tab in the ribbon.
