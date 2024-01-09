@@ -13,3 +13,22 @@ Key Features:
 📊 Total Time Percentage: Gain valuable insights into your time distribution by reviewing the total percentage of time spent on each selected category. The template automatically generates a summary, allowing you to identify patterns and make informed decisions on how to optimize your daily schedule.
 
 🌐 User-Friendly Interface: Designed with simplicity in mind, the template offers an intuitive and user-friendly interface. Whether you're a seasoned Excel user or a beginner, tracking and analyzing your daily activities has never been easier.
+
+
+
+
+
+
+**Note:** 🛑 If the Excel file is not viewable due to Protected View, follow these steps to resolve the issue:
+
+1. Click on the "File" tab in the ribbon.
+2. Select "Options" at the bottom of the left sidebar.
+3. In the Excel Options dialog, choose "Trust Center" from the left sidebar.
+4. Click on the "Trust Center Settings..." button.
+5. Navigate to "Protected View" in the Trust Center.
+6. Uncheck the options under "Protected View" that apply to the file source.
+7. Click "OK" to apply the changes.
+8. Close and reopen the Excel file.
+
+This should resolve any issues related to Protected View and allow you to view and use the Daily Activity Logger Excel Template without any interruptions. 🚀
+
