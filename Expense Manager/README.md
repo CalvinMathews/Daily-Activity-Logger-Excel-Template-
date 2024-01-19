@@ -14,7 +14,7 @@
 📈 **Budget Monitoring:** Set budgets and monitor your spending against them.
 
 
-Note: 🛑 If the Excel file is not viewable due to Protected View, follow these steps to resolve the issue:
+## Note: 🛑 If the Excel file is not viewable due to Protected View, follow these steps to resolve the issue:
 
 Click on the "File" tab in the ribbon.
 Select "Options" at the bottom of the left sidebar.
