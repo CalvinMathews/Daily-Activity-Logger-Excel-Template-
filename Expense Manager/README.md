@@ -12,3 +12,11 @@
 📑 **Detailed Categories:** Categorize your expenses for better organization.
 
 📈 **Budget Monitoring:** Set budgets and monitor your spending against them.
+
+
+## Contributing
+🤝 Contributions are welcome! Feel free to open issues and pull requests.
+
+## Support
+
+📧 Contact the maintainers at calvinriyadh@gmail.com.
